@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200|Montserrat');
+
+body{
+
+  background-color: #f6f8f9;
+}
+label{
+  text-align: left;
+  width: 100%;
+}
+a{
+  cursor: pointer;
+  color: #999 !important;
+}
+a:hover{
+  color: #D61542 !important;
+}
+
+#hide{
+  display: none;
+}
+
+
+.head_line{
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.login_center{
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom:  10px;
+  text-align: center;
+
+}
+.login_center .btn{
+    color:#fff !important;
+}
+.filter_dropdown{
+  width: 20%;
+    padding: 10px;
+}
+.search_bar{
+  width: 30%;
+    padding: 10px;
+}
+.filter-dropdown, .search-bar{
+padding: 10px;
+}
+.form_container{
+  display: none;
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  text-align: left;
+  color: #000;
+}
+.all_task{
+  background-color: #fff;
+  padding: 15px;
+
+  text-align: center;
+}
+.detail_data{
+  background-color: #fff;
+  padding: 15px;
+  margin-left:  10px;
+  text-align: center;
+  color: #000;
+}
+.text_desc{
+  text-align:left;
+  padding: 20px;
+  border: 1px solid #f8f8f8;
+}
+.text_right{
+  text-align: right;
+}
+.btn_edit{
+  text-align: right;
+}
+.btn_edit .btn{
+  color: #fff !important;
+  margin-left: 5px;
+}
